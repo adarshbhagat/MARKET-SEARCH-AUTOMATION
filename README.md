@@ -3,4 +3,4 @@ This python code will ask you for the company name after giving names separated 
 
 What you need:-
 1. A .csv file containing company name and url mapping.
-2. Path oof the web browser where you want to open the chart.
+2. Path of the web browser where you want to open the chart.(in the code)
